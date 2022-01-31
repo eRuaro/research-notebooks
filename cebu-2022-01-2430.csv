@@ -1,0 +1,169 @@
+name,region,country,longitude,latitude,time,temp_c,is_day,condition,wind_kph,wind_degree,wind_dir,air_pressure,precipitation,relative_humidity,cloud,feelslike_c,will_it_rain,chance_of_rain
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-24 00:00,25.3,0,Patchy rain possible,7.6,343,NNW,1009.37,0.61,83.8,60,27.7,0,0
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-24 01:00,25.2,0,Patchy rain possible,8.3,344,NNW,1009.18,0.53,80.03,63,27.6,0,21
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-24 02:00,25.1,0,Light rain shower,9.0,344,NNW,1009.0,0.44,76.27,65,27.4,1,80
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-24 03:00,25.0,0,Light rain shower,9.7,345,NNW,1008.82,0.35,72.5,67,27.3,0,0
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-24 04:00,24.9,0,Light rain shower,9.6,233,SW,1008.22,0.36,72.27,68,27.2,1,80
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-24 05:00,24.8,0,Light rain shower,9.5,122,ESE,1007.62,0.37,72.03,69,27.2,1,80
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-24 06:00,24.7,0,Light rain shower,9.4,10,N,1007.02,0.38,71.8,71,27.1,0,0
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-24 07:00,24.8,1,Light rain shower,12.2,15,NNE,1007.01,0.47,74.67,77,27.3,1,80
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-24 08:00,24.9,1,Light rain,15.1,19,NNE,1007.01,0.56,77.53,82,27.6,0,61
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-24 09:00,25.0,1,Light rain,18.0,23,NNE,1007.01,0.65,80.4,88,27.8,0,0
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-24 10:00,25.3,1,Light rain,16.7,134,SE,1007.57,0.55,83.13,92,28.3,0,61
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-24 11:00,25.7,1,Light rain shower,15.4,246,WSW,1008.13,0.45,85.87,96,28.7,1,80
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-24 12:00,26.0,1,Light rain shower,14.0,357,N,1008.69,0.35,88.6,100,29.2,0,0
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-24 13:00,25.7,1,Light rain shower,14.8,347,NNW,1008.58,0.32,89.43,88,28.8,1,80
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-24 14:00,25.4,1,Moderate rain at times,15.5,336,NNW,1008.47,0.28,90.27,75,28.5,0,62
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-24 15:00,25.1,1,Moderate rain at times,16.2,326,NNW,1008.36,0.25,91.1,63,28.1,0,0
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-24 16:00,25.0,1,Moderate rain at times,16.0,334,NNW,1007.95,0.24,90.23,75,28.0,0,62
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-24 17:00,24.9,1,Moderate rain,15.7,343,NNW,1007.55,0.23,89.37,88,27.9,0,63
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-24 18:00,24.8,0,Moderate rain,15.5,351,N,1007.15,0.22,88.5,100,27.8,0,0
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-24 19:00,25.0,0,Moderate rain,19.0,246,WSW,1007.15,0.26,89.6,100,28.0,0,63
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-24 20:00,25.2,0,Light rain shower,22.4,141,SE,1007.16,0.3,90.7,100,28.2,1,80
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-24 21:00,25.4,0,Light rain shower,25.9,36,NE,1007.17,0.34,91.8,100,28.4,0,0
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-24 22:00,25.0,0,Light rain shower,22.2,27,NNE,1007.62,0.45,92.67,100,27.9,1,80
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-24 23:00,24.6,0,Light rain shower,18.5,18,NNE,1008.08,0.56,93.53,100,27.4,1,80
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-25 00:00,24.2,0,Light rain shower,14.8,9,N,1008.53,0.67,94.4,100,26.9,0,0
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-25 01:00,24.3,0,Light rain shower,15.0,8,N,1008.32,0.63,92.53,92,27.0,1,80
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-25 02:00,24.4,0,Light rain shower,15.2,7,N,1008.11,0.58,90.67,83,27.1,1,80
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-25 03:00,24.5,0,Light rain shower,15.5,6,N,1007.9,0.53,88.8,75,27.2,0,0
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-25 04:00,24.6,0,Light rain shower,15.7,7,N,1007.21,0.79,90.13,73,27.3,1,80
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-25 05:00,24.7,0,Cloudy,16.0,9,N,1006.52,1.05,91.47,71,27.4,0,2
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-25 06:00,24.8,0,Cloudy,16.2,10,N,1005.84,1.31,92.8,68,27.5,0,0
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-25 07:00,25.5,1,Cloudy,16.4,17,NNE,1006.02,1.1,93.37,73,28.4,0,2
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-25 08:00,26.1,1,Light rain shower,16.7,23,NNE,1006.2,0.9,93.93,78,29.2,1,80
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-25 09:00,26.8,1,Light rain shower,16.9,30,NNE,1006.38,0.69,94.5,82,30.1,0,0
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-25 10:00,27.5,1,Light rain shower,17.5,34,NE,1006.97,0.68,93.93,73,31.1,1,80
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-25 11:00,28.1,1,Partly cloudy,18.1,39,NE,1007.57,0.67,93.37,64,32.1,0,1
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-25 12:00,28.8,1,Partly cloudy,18.7,43,NE,1008.16,0.67,92.8,55,33.1,0,0
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-25 13:00,28.7,1,Partly cloudy,18.4,40,NE,1008.08,0.77,92.77,60,32.9,0,1
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-25 14:00,28.6,1,Light rain shower,18.0,36,NE,1008.0,0.87,92.73,65,32.7,1,80
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-25 15:00,28.5,1,Light rain shower,17.6,33,NNE,1007.92,0.97,92.7,70,32.5,0,0
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-25 16:00,27.6,1,Light rain shower,17.2,29,NNE,1007.62,0.85,92.57,65,31.4,1,80
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-25 17:00,26.8,1,Light rain shower,16.7,26,NNE,1007.31,0.74,92.43,59,30.2,1,80
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-25 18:00,25.9,0,Light rain shower,16.2,23,NNE,1007.01,0.63,92.3,54,29.1,0,0
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-25 19:00,25.8,0,Light rain shower,16.4,29,NNE,1007.14,0.7,92.27,64,29.0,1,80
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-25 20:00,25.8,0,Patchy rain possible,16.7,36,NE,1007.27,0.78,92.23,74,28.9,0,21
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-25 21:00,25.7,0,Patchy rain possible,16.9,43,NE,1007.41,0.86,92.2,84,28.8,0,0
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-25 22:00,25.5,0,Patchy rain possible,14.9,52,NE,1008.15,0.61,89.97,84,28.5,0,21
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-25 23:00,25.4,0,Cloudy,12.8,60,ENE,1008.89,0.36,87.73,85,28.3,0,2
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-26 00:00,25.2,0,Cloudy,10.8,68,ENE,1009.63,0.1,85.5,85,28.0,0,0
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-26 01:00,25.1,0,Cloudy,10.7,65,ENE,1009.39,0.08,82.7,79,27.8,0,2
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-26 02:00,25.0,0,Light rain shower,10.6,62,ENE,1009.15,0.05,79.9,73,27.7,1,80
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-26 03:00,24.9,0,Light rain shower,10.4,59,ENE,1008.91,0.02,77.1,68,27.5,0,0
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-26 04:00,24.9,0,Light rain shower,10.9,67,ENE,1008.15,0.07,76.23,66,27.5,1,80
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-26 05:00,24.8,0,Light rain shower,11.4,74,ENE,1007.39,0.12,75.37,64,27.5,1,80
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-26 06:00,24.8,0,Light rain shower,11.9,82,E,1006.63,0.17,74.5,62,27.5,0,0
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-26 07:00,25.5,1,Light rain shower,13.0,88,E,1006.92,0.18,76.93,62,28.5,1,80
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-26 08:00,26.2,1,Light rain shower,14.0,94,E,1007.21,0.19,79.37,62,29.6,1,80
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-26 09:00,26.9,1,Light rain shower,15.1,100,E,1007.5,0.2,81.8,61,30.6,0,0
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-26 10:00,27.6,1,Light rain shower,15.4,92,E,1008.28,0.16,84.67,60,31.8,1,80
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-26 11:00,28.2,1,Light rain shower,15.6,84,E,1009.07,0.12,87.53,59,33.0,1,80
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-26 12:00,28.9,1,Light rain shower,15.8,77,ENE,1009.85,0.08,90.4,58,34.2,0,0
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-26 13:00,29.0,1,Light rain shower,16.4,83,E,1009.78,0.07,90.9,66,34.2,1,80
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-26 14:00,29.0,1,Patchy rain possible,17.0,90,E,1009.71,0.05,91.4,74,34.3,0,21
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-26 15:00,29.1,1,Patchy rain possible,17.6,96,E,1009.63,0.03,91.9,82,34.3,0,0
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-26 16:00,28.1,1,Patchy rain possible,17.0,96,E,1009.32,0.03,91.4,67,32.6,0,21
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-26 17:00,27.1,1,Partly cloudy,16.4,96,E,1009.0,0.03,90.9,53,31.0,0,1
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-26 18:00,26.1,0,Partly cloudy,15.8,96,E,1008.68,0.02,90.4,38,29.3,0,0
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-26 19:00,26.0,0,Partly cloudy,15.0,91,E,1008.67,0.02,90.2,35,29.2,0,1
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-26 20:00,26.0,0,Partly cloudy,14.2,86,E,1008.66,0.02,90.0,32,29.0,0,1
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-26 21:00,25.9,0,Partly cloudy,13.3,82,E,1008.65,0.02,89.8,29,28.9,0,0
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-26 22:00,25.7,0,Partly cloudy,14.4,83,E,1009.45,0.02,87.3,37,28.7,0,1
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-26 23:00,25.6,0,Light rain shower,15.5,85,E,1010.26,0.02,84.8,45,28.5,1,80
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-27 00:00,25.4,0,Light rain shower,16.6,86,E,1011.07,0.01,82.3,53,28.3,0,0
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-27 01:00,25.4,0,Light rain shower,16.7,86,E,1010.9,0.01,78.97,59,28.3,1,80
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-27 02:00,25.4,0,Light rain shower,16.8,87,E,1010.72,0.01,75.63,65,28.3,1,80
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-27 03:00,25.4,0,Light rain shower,16.9,87,E,1010.55,0.0,72.3,71,28.3,0,0
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-27 04:00,25.4,0,Light rain shower,16.2,90,E,1009.97,0.11,72.2,69,28.2,1,80
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-27 05:00,25.3,0,Light rain shower,15.5,94,E,1009.4,0.21,72.1,67,28.2,1,80
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-27 06:00,25.3,0,Light rain shower,14.8,97,E,1008.83,0.31,72.0,66,28.1,0,0
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-27 07:00,26.0,1,Light rain shower,15.2,97,E,1008.85,0.41,75.4,65,29.3,1,80
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-27 08:00,26.8,1,Light rain shower,15.7,98,E,1008.87,0.51,78.8,65,30.4,1,80
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-27 09:00,27.5,1,Light rain shower,16.2,98,E,1008.89,0.61,82.2,64,31.6,0,0
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-27 10:00,28.0,1,Light rain shower,15.8,96,E,1009.53,0.42,85.07,66,32.5,1,80
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-27 11:00,28.5,1,Patchy rain possible,15.5,94,E,1010.18,0.24,87.93,68,33.4,0,21
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-27 12:00,29.0,1,Patchy rain possible,15.1,91,E,1010.83,0.05,90.8,70,34.3,0,0
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-27 13:00,29.1,1,Patchy rain possible,14.9,94,E,1010.77,0.04,90.9,75,34.4,0,21
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-27 14:00,29.2,1,Patchy rain possible,14.6,96,E,1010.72,0.03,91.0,81,34.6,0,21
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-27 15:00,29.3,1,Patchy rain possible,14.4,98,E,1010.66,0.02,91.1,86,34.7,0,0
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-27 16:00,28.7,1,Patchy rain possible,13.4,102,ESE,1010.38,0.02,90.63,62,33.8,0,21
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-27 17:00,28.1,1,Sunny,12.5,106,ESE,1010.1,0.02,90.17,39,32.8,0,0
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-27 18:00,27.5,0,Clear,11.5,109,ESE,1009.82,0.03,89.7,15,31.9,0,0
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-27 19:00,26.8,0,Clear,10.8,88,E,1009.98,0.02,89.8,36,30.7,0,0
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-27 20:00,26.2,0,Patchy rain possible,10.1,66,ENE,1010.15,0.01,89.9,56,29.5,0,21
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-27 21:00,25.5,0,Patchy rain possible,9.4,44,NE,1010.31,0.01,90.0,77,28.3,0,0
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-27 22:00,25.4,0,Patchy rain possible,9.2,56,ENE,1010.96,0.0,87.13,58,28.2,0,21
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-27 23:00,25.4,0,Clear,9.1,69,ENE,1011.6,0.0,84.27,40,28.1,0,0
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-28 00:00,25.3,0,Clear,9.0,81,E,1012.25,0.0,81.4,21,28.0,0,0
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-28 01:00,25.1,0,Clear,8.4,60,ENE,1011.93,0.0,77.7,20,27.8,0,0
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-28 02:00,25.0,0,Clear,7.8,40,NE,1011.62,0.0,74.0,19,27.5,0,0
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-28 03:00,24.8,0,Clear,7.2,19,NNE,1011.3,0.0,70.3,19,27.3,0,0
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-28 04:00,24.7,0,Clear,7.8,28,NNE,1010.56,0.0,69.1,23,27.2,0,0
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-28 05:00,24.7,0,Partly cloudy,8.4,36,NE,1009.81,0.0,67.9,26,27.0,0,1
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-28 06:00,24.6,0,Partly cloudy,9.0,44,NE,1009.06,0.0,66.7,30,26.9,0,0
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-28 07:00,25.6,1,Partly cloudy,9.5,50,NE,1009.06,0.0,69.47,32,28.2,0,1
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-28 08:00,26.5,1,Partly cloudy,10.0,57,ENE,1009.05,0.0,72.23,33,29.6,0,1
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-28 09:00,27.5,1,Partly cloudy,10.4,63,ENE,1009.05,0.0,75.0,34,30.9,0,0
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-28 10:00,28.0,1,Partly cloudy,10.7,69,ENE,1009.69,0.0,79.0,38,31.7,0,1
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-28 11:00,28.4,1,Partly cloudy,10.9,76,ENE,1010.32,0.0,83.0,43,32.5,0,1
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-28 12:00,28.9,1,Partly cloudy,11.2,82,E,1010.96,0.0,87.0,47,33.3,0,0
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-28 13:00,28.2,1,Partly cloudy,14.8,91,E,1010.92,0.01,87.4,55,32.4,0,1
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-28 14:00,27.5,1,Light rain shower,18.4,100,E,1010.88,0.01,87.8,63,31.4,1,80
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-28 15:00,26.8,1,Light rain shower,22.0,109,ESE,1010.85,0.02,88.2,71,30.5,0,0
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-28 16:00,26.3,1,Light rain shower,18.4,92,E,1010.47,0.02,88.37,73,29.6,1,80
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-28 17:00,25.7,1,Light rain shower,14.8,76,ENE,1010.09,0.01,88.53,76,28.7,1,80
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-28 18:00,25.2,0,Light rain shower,11.2,59,ENE,1009.72,0.01,88.7,79,27.8,0,0
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-28 19:00,25.2,0,Light rain shower,9.8,65,ENE,1009.65,0.01,89.0,78,27.7,1,80
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-28 20:00,25.2,0,Cloudy,8.5,71,ENE,1009.59,0.0,89.3,77,27.7,0,2
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-28 21:00,25.2,0,Cloudy,7.2,78,ENE,1009.52,0.0,89.6,76,27.6,0,0
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-28 22:00,25.2,0,Cloudy,5.4,165,SSE,1010.34,0.0,86.87,71,27.5,0,2
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-28 23:00,25.1,0,Partly cloudy,3.6,253,WSW,1011.16,0.0,84.13,66,27.5,0,1
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-29 00:00,25.1,0,Partly cloudy,1.8,341,NNW,1011.99,0.0,81.4,60,27.4,0,0
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-29 01:00,25.2,0,Partly cloudy,3.5,255,WSW,1011.76,0.0,77.9,57,27.5,0,1
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-29 02:00,25.2,0,Partly cloudy,5.2,169,S,1011.53,0.01,74.4,54,27.6,0,1
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-29 03:00,25.3,0,Partly cloudy,6.8,83,E,1011.31,0.01,70.9,50,27.7,0,0
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-29 04:00,25.2,0,Partly cloudy,5.4,80,E,1010.5,0.01,69.93,47,27.5,0,1
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-29 05:00,25.1,0,Partly cloudy,4.0,78,ENE,1009.69,0.01,68.97,44,27.4,0,1
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-29 06:00,25.0,0,Partly cloudy,2.5,75,ENE,1008.88,0.01,68.0,41,27.2,0,0
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-29 07:00,25.7,1,Partly cloudy,3.4,76,ENE,1008.66,0.01,70.77,39,28.2,0,1
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-29 08:00,26.4,1,Partly cloudy,4.2,78,ENE,1008.44,0.0,73.53,37,29.2,0,1
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-29 09:00,27.1,1,Partly cloudy,5.0,79,E,1008.22,0.0,76.3,35,30.2,0,0
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-29 10:00,27.7,1,Partly cloudy,6.7,82,E,1008.89,0.02,78.77,34,31.3,0,1
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-29 11:00,28.4,1,Partly cloudy,8.4,84,E,1009.56,0.04,81.23,33,32.4,0,1
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-29 12:00,29.0,1,Partly cloudy,10.1,87,E,1010.24,0.05,83.7,32,33.5,0,0
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-29 13:00,29.0,1,Partly cloudy,10.0,83,E,1010.32,0.04,85.5,29,33.2,0,1
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-29 14:00,28.9,1,Sunny,9.8,78,ENE,1010.4,0.02,87.3,27,33.0,0,0
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-29 15:00,28.9,1,Sunny,9.7,73,ENE,1010.49,0.0,89.1,24,32.7,0,0
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-29 16:00,28.4,1,Sunny,9.4,69,ENE,1010.09,0.0,88.9,19,32.1,0,0
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-29 17:00,27.9,1,Sunny,9.0,65,ENE,1009.68,0.0,88.7,14,31.5,0,0
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-29 18:00,27.4,0,Clear,8.6,61,ENE,1009.28,0.0,88.5,9,30.9,0,0
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-29 19:00,26.8,0,Clear,8.2,65,ENE,1009.38,0.0,88.4,11,30.0,0,0
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-29 20:00,26.3,0,Clear,7.7,69,ENE,1009.47,0.0,88.3,13,29.0,0,0
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-29 21:00,25.7,0,Clear,7.2,74,ENE,1009.56,0.0,88.2,15,28.1,0,0
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-29 22:00,25.7,0,Clear,7.3,74,ENE,1010.43,0.0,84.73,18,28.3,0,0
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-29 23:00,25.8,0,Partly cloudy,7.4,73,ENE,1011.3,0.0,81.27,22,28.4,0,1
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-30 00:00,25.8,0,Partly cloudy,7.6,73,ENE,1012.17,0.0,77.8,25,28.6,0,0
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-30 01:00,25.6,0,Partly cloudy,6.1,92,E,1011.94,0.0,74.73,29,28.3,0,1
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-30 02:00,25.3,0,Partly cloudy,4.7,111,ESE,1011.71,0.01,71.67,33,27.9,0,1
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-30 03:00,25.1,0,Partly cloudy,3.2,130,SE,1011.48,0.01,68.6,37,27.6,0,0
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-30 04:00,25.1,0,Partly cloudy,2.8,139,SE,1010.79,0.04,70.8,30,27.5,0,1
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-30 05:00,25.0,0,Clear,2.3,149,SSE,1010.1,0.07,73.0,23,27.5,0,0
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-30 06:00,25.0,0,Clear,1.8,158,SSE,1009.41,0.09,75.2,17,27.4,0,0
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-30 07:00,25.8,1,Sunny,2.9,155,SSE,1009.34,0.2,76.43,19,28.5,0,0
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-30 08:00,26.6,1,Sunny,4.0,152,SSE,1009.27,0.31,77.67,22,29.6,0,0
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-30 09:00,27.4,1,Sunny,5.0,149,SSE,1009.21,0.41,78.9,25,30.7,0,0
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-30 10:00,28.1,1,Sunny,5.4,137,SE,1009.84,0.27,81.6,28,32.0,0,0
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-30 11:00,28.8,1,Partly cloudy,5.8,124,SE,1010.47,0.14,84.3,30,33.3,0,1
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-30 12:00,29.5,1,Partly cloudy,6.1,112,ESE,1011.1,0.0,87.0,33,34.6,0,0
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-30 13:00,29.4,1,Partly cloudy,5.9,107,ESE,1011.2,0.0,87.17,51,34.5,0,1
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-30 14:00,29.4,1,Patchy rain possible,5.6,102,ESE,1011.29,0.0,87.33,68,34.3,0,21
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-30 15:00,29.3,1,Patchy rain possible,5.4,96,E,1011.39,0.0,87.5,86,34.2,0,0
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-30 16:00,28.9,1,Patchy rain possible,5.3,85,E,1010.99,0.0,88.37,62,33.6,0,21
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-30 17:00,28.4,1,Sunny,5.2,73,ENE,1010.59,0.0,89.23,37,32.9,0,0
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-30 18:00,28.0,0,Clear,5.0,62,ENE,1010.19,0.0,90.1,13,32.3,0,0
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-30 19:00,27.3,0,Clear,6.0,52,NE,1010.23,0.0,90.33,11,31.2,0,0
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-30 20:00,26.7,0,Clear,7.0,42,NE,1010.27,0.0,90.57,8,30.0,0,0
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-30 21:00,26.0,0,Clear,7.9,32,NNE,1010.31,0.0,90.8,6,28.9,0,0
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-30 22:00,25.9,0,Clear,6.6,29,NNE,1011.04,0.08,86.87,13,28.6,0,0
+Cebu,Cebu City,Philippines,123.89,10.31,2022-01-30 23:00,25.7,0,Partly cloudy,5.3,26,NNE,1011.77,0.16,82.93,20,28.3,0,1
