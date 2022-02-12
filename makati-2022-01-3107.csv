@@ -1,0 +1,193 @@
+name,region,country,longitude,latitude,time,temp_c,is_day,condition,wind_kph,wind_degree,wind_dir,air_pressure,precipitation,relative_humidity,cloud,feelslike_c,will_it_rain,chance_of_rain
+Makati,Makati City,Philippines,121.03,14.57,2022-01-31 00:00,25.7,0,Cloudy,8.6,92,E,1012.83,0.01,75.5,75,28.2,0,0
+Makati,Makati City,Philippines,121.03,14.57,2022-01-31 01:00,25.6,0,Cloudy,9.8,93,E,1012.71,0.01,70.0,68,28.0,0,2
+Makati,Makati City,Philippines,121.03,14.57,2022-01-31 02:00,25.4,0,Partly cloudy,11.0,95,E,1012.58,0.01,64.5,62,27.9,0,1
+Makati,Makati City,Philippines,121.03,14.57,2022-01-31 03:00,25.3,0,Partly cloudy,12.2,97,E,1012.46,0.01,59.0,55,27.7,0,0
+Makati,Makati City,Philippines,121.03,14.57,2022-01-31 04:00,25.1,0,Partly cloudy,11.8,95,E,1011.61,0.01,57.57,63,27.4,0,1
+Makati,Makati City,Philippines,121.03,14.57,2022-01-31 05:00,25.0,0,Cloudy,11.3,93,E,1010.76,0.01,56.13,71,27.2,0,2
+Makati,Makati City,Philippines,121.03,14.57,2022-01-31 06:00,24.8,0,Cloudy,10.8,90,E,1009.91,0.01,54.7,78,26.9,0,0
+Makati,Makati City,Philippines,121.03,14.57,2022-01-31 07:00,25.5,1,Cloudy,10.9,94,E,1010.2,0.0,57.6,59,27.5,0,2
+Makati,Makati City,Philippines,121.03,14.57,2022-01-31 08:00,26.1,1,Sunny,11.0,97,E,1010.5,0.0,60.5,40,28.1,0,0
+Makati,Makati City,Philippines,121.03,14.57,2022-01-31 09:00,26.8,1,Sunny,11.2,100,E,1010.79,0.0,63.4,20,28.7,0,0
+Makati,Makati City,Philippines,121.03,14.57,2022-01-31 10:00,28.1,1,Sunny,9.6,100,E,1011.47,0.0,65.83,29,30.5,0,0
+Makati,Makati City,Philippines,121.03,14.57,2022-01-31 11:00,29.5,1,Partly cloudy,8.0,99,E,1012.16,0.0,68.27,38,32.3,0,1
+Makati,Makati City,Philippines,121.03,14.57,2022-01-31 12:00,30.8,1,Partly cloudy,6.5,98,E,1012.84,0.0,70.7,47,34.1,0,0
+Makati,Makati City,Philippines,121.03,14.57,2022-01-31 13:00,31.0,1,Partly cloudy,7.3,103,ESE,1012.94,0.0,71.47,42,34.4,0,1
+Makati,Makati City,Philippines,121.03,14.57,2022-01-31 14:00,31.2,1,Partly cloudy,8.2,108,ESE,1013.03,0.0,72.23,36,34.6,0,1
+Makati,Makati City,Philippines,121.03,14.57,2022-01-31 15:00,31.4,1,Partly cloudy,9.0,113,ESE,1013.13,0.0,73.0,30,34.9,0,0
+Makati,Makati City,Philippines,121.03,14.57,2022-01-31 16:00,30.3,1,Partly cloudy,10.8,104,ESE,1012.8,0.01,72.57,26,33.5,0,1
+Makati,Makati City,Philippines,121.03,14.57,2022-01-31 17:00,29.3,1,Sunny,12.6,96,E,1012.48,0.01,72.13,22,32.0,0,0
+Makati,Makati City,Philippines,121.03,14.57,2022-01-31 18:00,28.2,0,Clear,14.4,87,E,1012.16,0.02,71.7,18,30.6,0,0
+Makati,Makati City,Philippines,121.03,14.57,2022-01-31 19:00,27.6,0,Clear,14.4,89,E,1012.13,0.02,72.17,16,29.9,0,0
+Makati,Makati City,Philippines,121.03,14.57,2022-01-31 20:00,26.9,0,Clear,14.4,92,E,1012.11,0.02,72.63,15,29.1,0,0
+Makati,Makati City,Philippines,121.03,14.57,2022-01-31 21:00,26.3,0,Clear,14.4,94,E,1012.08,0.02,73.1,14,28.4,0,0
+Makati,Makati City,Philippines,121.03,14.57,2022-01-31 22:00,26.0,0,Clear,13.3,91,E,1012.67,0.01,71.83,36,28.0,0,0
+Makati,Makati City,Philippines,121.03,14.57,2022-01-31 23:00,25.7,0,Cloudy,12.2,88,E,1013.26,0.01,70.57,59,27.7,0,2
+Makati,Makati City,Philippines,121.03,14.57,2022-02-01 00:00,25.4,0,Cloudy,11.2,84,E,1013.85,0.01,69.3,81,27.3,0,0
+Makati,Makati City,Philippines,121.03,14.57,2022-02-01 01:00,25.4,0,Cloudy,11.3,82,E,1013.59,0.01,65.93,82,27.3,0,2
+Makati,Makati City,Philippines,121.03,14.57,2022-02-01 02:00,25.4,0,Cloudy,11.4,79,E,1013.34,0.02,62.57,82,27.3,0,2
+Makati,Makati City,Philippines,121.03,14.57,2022-02-01 03:00,25.4,0,Cloudy,11.5,77,ENE,1013.08,0.02,59.2,82,27.3,0,0
+Makati,Makati City,Philippines,121.03,14.57,2022-02-01 04:00,25.4,0,Cloudy,11.3,76,ENE,1012.16,0.02,58.67,75,27.3,0,2
+Makati,Makati City,Philippines,121.03,14.57,2022-02-01 05:00,25.4,0,Partly cloudy,11.0,75,ENE,1011.24,0.01,58.13,68,27.2,0,1
+Makati,Makati City,Philippines,121.03,14.57,2022-02-01 06:00,25.4,0,Partly cloudy,10.8,74,ENE,1010.32,0.01,57.6,60,27.2,0,0
+Makati,Makati City,Philippines,121.03,14.57,2022-02-01 07:00,25.8,1,Partly cloudy,11.5,73,ENE,1010.58,0.01,58.73,66,27.7,0,1
+Makati,Makati City,Philippines,121.03,14.57,2022-02-01 08:00,26.3,1,Cloudy,12.2,72,ENE,1010.84,0.0,59.87,71,28.1,0,2
+Makati,Makati City,Philippines,121.03,14.57,2022-02-01 09:00,26.7,1,Cloudy,13.0,71,ENE,1011.1,0.0,61.0,76,28.6,0,0
+Makati,Makati City,Philippines,121.03,14.57,2022-02-01 10:00,27.3,1,Cloudy,13.9,66,ENE,1011.78,0.0,63.77,67,29.3,0,2
+Makati,Makati City,Philippines,121.03,14.57,2022-02-01 11:00,27.9,1,Partly cloudy,14.9,62,ENE,1012.46,0.0,66.53,58,30.1,0,1
+Makati,Makati City,Philippines,121.03,14.57,2022-02-01 12:00,28.5,1,Partly cloudy,15.8,58,ENE,1013.14,0.0,69.3,49,30.8,0,0
+Makati,Makati City,Philippines,121.03,14.57,2022-02-01 13:00,28.9,1,Partly cloudy,16.8,63,ENE,1013.22,0.0,70.2,45,31.4,0,1
+Makati,Makati City,Philippines,121.03,14.57,2022-02-01 14:00,29.3,1,Partly cloudy,17.8,67,ENE,1013.3,0.0,71.1,41,31.9,0,1
+Makati,Makati City,Philippines,121.03,14.57,2022-02-01 15:00,29.7,1,Partly cloudy,18.7,71,ENE,1013.38,0.0,72.0,37,32.5,0,0
+Makati,Makati City,Philippines,121.03,14.57,2022-02-01 16:00,28.8,1,Partly cloudy,18.0,71,ENE,1012.81,0.0,72.33,38,31.3,0,1
+Makati,Makati City,Philippines,121.03,14.57,2022-02-01 17:00,27.8,1,Partly cloudy,17.3,71,ENE,1012.24,0.0,72.67,39,30.0,0,1
+Makati,Makati City,Philippines,121.03,14.57,2022-02-01 18:00,26.9,0,Partly cloudy,16.6,71,ENE,1011.67,0.0,73.0,40,28.8,0,0
+Makati,Makati City,Philippines,121.03,14.57,2022-02-01 19:00,26.6,0,Partly cloudy,15.7,77,ENE,1011.73,0.0,72.73,41,28.4,0,1
+Makati,Makati City,Philippines,121.03,14.57,2022-02-01 20:00,26.2,0,Partly cloudy,14.9,83,E,1011.79,0.01,72.47,42,28.1,0,1
+Makati,Makati City,Philippines,121.03,14.57,2022-02-01 21:00,25.9,0,Partly cloudy,14.0,89,E,1011.85,0.01,72.2,43,27.7,0,0
+Makati,Makati City,Philippines,121.03,14.57,2022-02-01 22:00,25.7,0,Partly cloudy,13.3,84,E,1012.82,0.01,71.6,43,27.5,0,1
+Makati,Makati City,Philippines,121.03,14.57,2022-02-01 23:00,25.4,0,Partly cloudy,12.6,79,E,1013.79,0.0,71.0,43,27.2,0,1
+Makati,Makati City,Philippines,121.03,14.57,2022-02-02 00:00,25.2,0,Partly cloudy,11.9,75,ENE,1014.77,0.0,70.4,43,27.0,0,0
+Makati,Makati City,Philippines,121.03,14.57,2022-02-02 01:00,25.1,0,Partly cloudy,11.5,68,ENE,1014.35,0.01,67.8,46,26.9,0,1
+Makati,Makati City,Philippines,121.03,14.57,2022-02-02 02:00,25.1,0,Partly cloudy,11.2,62,ENE,1013.94,0.01,65.2,50,26.8,0,1
+Makati,Makati City,Philippines,121.03,14.57,2022-02-02 03:00,25.0,0,Partly cloudy,10.8,56,ENE,1013.53,0.02,62.6,54,26.7,0,0
+Makati,Makati City,Philippines,121.03,14.57,2022-02-02 04:00,25.0,0,Partly cloudy,10.9,52,NE,1012.79,0.01,59.9,61,26.7,0,1
+Makati,Makati City,Philippines,121.03,14.57,2022-02-02 05:00,25.1,0,Cloudy,11.0,48,NE,1012.04,0.01,57.2,68,26.8,0,2
+Makati,Makati City,Philippines,121.03,14.57,2022-02-02 06:00,25.1,0,Cloudy,11.2,45,NE,1011.29,0.0,54.5,74,26.8,0,0
+Makati,Makati City,Philippines,121.03,14.57,2022-02-02 07:00,25.7,1,Cloudy,13.2,53,NE,1011.4,0.0,56.47,72,27.3,0,2
+Makati,Makati City,Philippines,121.03,14.57,2022-02-02 08:00,26.2,1,Cloudy,15.2,60,ENE,1011.52,0.0,58.43,69,27.8,0,2
+Makati,Makati City,Philippines,121.03,14.57,2022-02-02 09:00,26.8,1,Cloudy,17.3,68,ENE,1011.63,0.0,60.4,66,28.3,0,0
+Makati,Makati City,Philippines,121.03,14.57,2022-02-02 10:00,27.6,1,Cloudy,18.1,70,ENE,1012.12,0.03,63.1,72,29.4,0,2
+Makati,Makati City,Philippines,121.03,14.57,2022-02-02 11:00,28.5,1,Cloudy,19.0,71,ENE,1012.62,0.06,65.8,79,30.6,0,2
+Makati,Makati City,Philippines,121.03,14.57,2022-02-02 12:00,29.3,1,Cloudy,19.8,73,ENE,1013.11,0.09,68.5,85,31.7,0,0
+Makati,Makati City,Philippines,121.03,14.57,2022-02-02 13:00,28.9,1,Cloudy,20.9,69,ENE,1013.01,0.1,70.07,76,31.1,0,2
+Makati,Makati City,Philippines,121.03,14.57,2022-02-02 14:00,28.6,1,Partly cloudy,22.0,65,ENE,1012.9,0.11,71.63,67,30.6,0,1
+Makati,Makati City,Philippines,121.03,14.57,2022-02-02 15:00,28.2,1,Partly cloudy,23.0,62,ENE,1012.8,0.13,73.2,57,30.0,0,0
+Makati,Makati City,Philippines,121.03,14.57,2022-02-02 16:00,27.6,1,Partly cloudy,20.5,60,ENE,1012.3,0.31,77.87,70,29.4,0,1
+Makati,Makati City,Philippines,121.03,14.57,2022-02-02 17:00,27.1,1,Overcast,18.0,59,ENE,1011.81,0.48,82.53,83,28.8,0,3
+Makati,Makati City,Philippines,121.03,14.57,2022-02-02 18:00,26.5,0,Overcast,15.5,57,ENE,1011.31,0.66,87.2,96,28.2,0,0
+Makati,Makati City,Philippines,121.03,14.57,2022-02-02 19:00,26.4,0,Overcast,15.2,58,ENE,1011.29,0.5,87.77,96,28.1,0,3
+Makati,Makati City,Philippines,121.03,14.57,2022-02-02 20:00,26.3,0,Overcast,15.0,60,ENE,1011.27,0.35,88.33,97,28.1,0,3
+Makati,Makati City,Philippines,121.03,14.57,2022-02-02 21:00,26.2,0,Overcast,14.8,61,ENE,1011.25,0.19,88.9,98,28.0,0,0
+Makati,Makati City,Philippines,121.03,14.57,2022-02-02 22:00,26.1,0,Overcast,13.6,69,ENE,1012.12,0.18,83.67,96,28.0,0,3
+Makati,Makati City,Philippines,121.03,14.57,2022-02-02 23:00,26.0,0,Overcast,12.4,76,ENE,1012.99,0.18,78.43,94,27.9,0,3
+Makati,Makati City,Philippines,121.03,14.57,2022-02-03 00:00,25.9,0,Overcast,11.2,84,E,1013.86,0.17,73.2,92,27.9,0,0
+Makati,Makati City,Philippines,121.03,14.57,2022-02-03 01:00,25.7,0,Overcast,10.3,79,E,1013.9,0.15,73.2,86,27.7,0,3
+Makati,Makati City,Philippines,121.03,14.57,2022-02-03 02:00,25.6,0,Patchy rain possible,9.5,75,ENE,1013.94,0.14,73.2,79,27.6,0,21
+Makati,Makati City,Philippines,121.03,14.57,2022-02-03 03:00,25.4,0,Patchy rain possible,8.6,71,ENE,1013.97,0.12,73.2,73,27.4,0,0
+Makati,Makati City,Philippines,121.03,14.57,2022-02-03 04:00,25.3,0,Patchy rain possible,9.0,70,ENE,1013.0,0.08,69.07,73,27.3,0,21
+Makati,Makati City,Philippines,121.03,14.57,2022-02-03 05:00,25.2,0,Cloudy,9.4,70,ENE,1012.02,0.04,64.93,74,27.2,0,2
+Makati,Makati City,Philippines,121.03,14.57,2022-02-03 06:00,25.1,0,Cloudy,9.7,69,ENE,1011.04,0.0,60.8,74,27.1,0,0
+Makati,Makati City,Philippines,121.03,14.57,2022-02-03 07:00,25.2,1,Cloudy,10.0,71,ENE,1010.92,0.0,62.23,73,27.3,0,2
+Makati,Makati City,Philippines,121.03,14.57,2022-02-03 08:00,25.4,1,Patchy rain possible,10.2,72,ENE,1010.79,0.0,63.67,72,27.4,0,21
+Makati,Makati City,Philippines,121.03,14.57,2022-02-03 09:00,25.5,1,Patchy rain possible,10.4,73,ENE,1010.66,0.0,65.1,71,27.6,0,0
+Makati,Makati City,Philippines,121.03,14.57,2022-02-03 10:00,25.8,1,Patchy rain possible,9.5,71,ENE,1011.38,0.0,67.13,68,28.0,0,21
+Makati,Makati City,Philippines,121.03,14.57,2022-02-03 11:00,26.0,1,Partly cloudy,8.5,70,ENE,1012.09,0.0,69.17,65,28.4,0,1
+Makati,Makati City,Philippines,121.03,14.57,2022-02-03 12:00,26.3,1,Partly cloudy,7.6,68,ENE,1012.81,0.0,71.2,62,28.8,0,0
+Makati,Makati City,Philippines,121.03,14.57,2022-02-03 13:00,26.7,1,Partly cloudy,8.0,71,ENE,1012.74,0.0,72.57,66,29.2,0,1
+Makati,Makati City,Philippines,121.03,14.57,2022-02-03 14:00,27.2,1,Cloudy,8.5,75,ENE,1012.68,0.0,73.93,69,29.6,0,2
+Makati,Makati City,Philippines,121.03,14.57,2022-02-03 15:00,27.6,1,Cloudy,9.0,79,E,1012.62,0.0,75.3,73,30.0,0,0
+Makati,Makati City,Philippines,121.03,14.57,2022-02-03 16:00,27.2,1,Cloudy,10.0,79,E,1012.36,0.0,75.63,69,29.5,0,2
+Makati,Makati City,Philippines,121.03,14.57,2022-02-03 17:00,26.9,1,Partly cloudy,10.9,80,E,1012.1,0.0,75.97,65,29.0,0,1
+Makati,Makati City,Philippines,121.03,14.57,2022-02-03 18:00,26.5,0,Partly cloudy,11.9,80,E,1011.84,0.0,76.3,62,28.5,0,0
+Makati,Makati City,Philippines,121.03,14.57,2022-02-03 19:00,26.2,0,Partly cloudy,11.6,82,E,1011.66,0.0,76.97,52,28.2,0,1
+Makati,Makati City,Philippines,121.03,14.57,2022-02-03 20:00,26.0,0,Partly cloudy,11.4,83,E,1011.49,0.0,77.63,43,27.9,0,1
+Makati,Makati City,Philippines,121.03,14.57,2022-02-03 21:00,25.7,0,Partly cloudy,11.2,85,E,1011.31,0.0,78.3,34,27.6,0,0
+Makati,Makati City,Philippines,121.03,14.57,2022-02-03 22:00,25.5,0,Partly cloudy,10.4,82,E,1012.0,0.0,75.97,42,27.5,0,1
+Makati,Makati City,Philippines,121.03,14.57,2022-02-03 23:00,25.4,0,Partly cloudy,9.7,80,E,1012.69,0.0,73.63,50,27.3,0,1
+Makati,Makati City,Philippines,121.03,14.57,2022-02-04 00:00,25.2,0,Partly cloudy,9.0,77,ENE,1013.38,0.0,71.3,59,27.2,0,0
+Makati,Makati City,Philippines,121.03,14.57,2022-02-04 01:00,24.9,0,Partly cloudy,8.8,66,ENE,1013.31,0.0,65.53,51,26.9,0,1
+Makati,Makati City,Philippines,121.03,14.57,2022-02-04 02:00,24.7,0,Partly cloudy,8.5,56,ENE,1013.24,0.0,59.77,44,26.7,0,1
+Makati,Makati City,Philippines,121.03,14.57,2022-02-04 03:00,24.4,0,Partly cloudy,8.3,45,NE,1013.17,0.0,54.0,37,26.4,0,0
+Makati,Makati City,Philippines,121.03,14.57,2022-02-04 04:00,24.3,0,Partly cloudy,8.2,45,NE,1012.1,0.0,52.23,36,26.3,0,1
+Makati,Makati City,Philippines,121.03,14.57,2022-02-04 05:00,24.3,0,Partly cloudy,8.0,44,NE,1011.04,0.0,50.47,35,26.3,0,1
+Makati,Makati City,Philippines,121.03,14.57,2022-02-04 06:00,24.2,0,Partly cloudy,7.9,44,NE,1009.97,0.0,48.7,33,26.2,0,0
+Makati,Makati City,Philippines,121.03,14.57,2022-02-04 07:00,25.1,1,Partly cloudy,9.1,50,NE,1010.21,0.0,49.83,35,27.1,0,1
+Makati,Makati City,Philippines,121.03,14.57,2022-02-04 08:00,26.0,1,Partly cloudy,10.3,57,ENE,1010.46,0.0,50.97,38,27.9,0,1
+Makati,Makati City,Philippines,121.03,14.57,2022-02-04 09:00,26.9,1,Partly cloudy,11.5,63,ENE,1010.71,0.0,52.1,40,28.8,0,0
+Makati,Makati City,Philippines,121.03,14.57,2022-02-04 10:00,28.0,1,Partly cloudy,13.2,63,ENE,1011.57,0.0,57.1,41,29.9,0,1
+Makati,Makati City,Philippines,121.03,14.57,2022-02-04 11:00,29.1,1,Partly cloudy,14.9,62,ENE,1012.42,0.0,62.1,42,31.1,0,1
+Makati,Makati City,Philippines,121.03,14.57,2022-02-04 12:00,30.2,1,Partly cloudy,16.6,62,ENE,1013.28,0.0,67.1,43,32.2,0,0
+Makati,Makati City,Philippines,121.03,14.57,2022-02-04 13:00,30.5,1,Partly cloudy,18.5,64,ENE,1013.42,0.0,67.77,34,32.8,0,1
+Makati,Makati City,Philippines,121.03,14.57,2022-02-04 14:00,30.9,1,Sunny,20.4,67,ENE,1013.57,0.0,68.43,25,33.3,0,0
+Makati,Makati City,Philippines,121.03,14.57,2022-02-04 15:00,31.2,1,Sunny,22.3,69,ENE,1013.71,0.0,69.1,16,33.9,0,0
+Makati,Makati City,Philippines,121.03,14.57,2022-02-04 16:00,30.4,1,Sunny,22.0,73,ENE,1013.41,0.0,69.5,16,33.1,0,0
+Makati,Makati City,Philippines,121.03,14.57,2022-02-04 17:00,29.6,1,Sunny,21.6,77,ENE,1013.1,0.0,69.9,15,32.3,0,0
+Makati,Makati City,Philippines,121.03,14.57,2022-02-04 18:00,28.8,0,Clear,21.2,81,E,1012.8,0.0,70.3,14,31.5,0,0
+Makati,Makati City,Philippines,121.03,14.57,2022-02-04 19:00,27.8,0,Clear,20.0,80,E,1012.67,0.0,69.77,17,30.2,0,0
+Makati,Makati City,Philippines,121.03,14.57,2022-02-04 20:00,26.9,0,Clear,18.8,79,E,1012.54,0.0,69.23,19,28.9,0,0
+Makati,Makati City,Philippines,121.03,14.57,2022-02-04 21:00,25.9,0,Clear,17.6,78,ENE,1012.41,0.0,68.7,21,27.6,0,0
+Makati,Makati City,Philippines,121.03,14.57,2022-02-04 22:00,25.8,0,Clear,17.2,75,ENE,1013.07,0.0,67.6,28,27.5,0,0
+Makati,Makati City,Philippines,121.03,14.57,2022-02-04 23:00,25.8,0,Partly cloudy,16.7,72,ENE,1013.74,0.0,66.5,35,27.5,0,1
+Makati,Makati City,Philippines,121.03,14.57,2022-02-05 00:00,25.7,0,Partly cloudy,16.2,70,ENE,1014.4,0.0,65.4,42,27.4,0,0
+Makati,Makati City,Philippines,121.03,14.57,2022-02-05 01:00,25.6,0,Partly cloudy,16.0,71,ENE,1014.26,0.0,61.73,45,27.2,0,1
+Makati,Makati City,Philippines,121.03,14.57,2022-02-05 02:00,25.4,0,Partly cloudy,15.7,72,ENE,1014.12,0.0,58.07,49,27.1,0,1
+Makati,Makati City,Philippines,121.03,14.57,2022-02-05 03:00,25.3,0,Partly cloudy,15.5,73,ENE,1013.98,0.0,54.4,52,26.9,0,0
+Makati,Makati City,Philippines,121.03,14.57,2022-02-05 04:00,25.4,0,Partly cloudy,15.6,69,ENE,1013.21,0.0,54.47,56,27.0,0,1
+Makati,Makati City,Philippines,121.03,14.57,2022-02-05 05:00,25.4,0,Cloudy,15.7,66,ENE,1012.45,0.0,54.53,60,27.0,0,2
+Makati,Makati City,Philippines,121.03,14.57,2022-02-05 06:00,25.5,0,Cloudy,15.8,63,ENE,1011.68,0.0,54.6,63,27.1,0,0
+Makati,Makati City,Philippines,121.03,14.57,2022-02-05 07:00,25.7,1,Cloudy,17.0,62,ENE,1011.7,0.0,57.77,68,27.3,0,2
+Makati,Makati City,Philippines,121.03,14.57,2022-02-05 08:00,25.8,1,Cloudy,18.2,60,ENE,1011.72,0.01,60.93,72,27.4,0,2
+Makati,Makati City,Philippines,121.03,14.57,2022-02-05 09:00,26.0,1,Cloudy,19.4,59,ENE,1011.74,0.01,64.1,77,27.6,0,0
+Makati,Makati City,Philippines,121.03,14.57,2022-02-05 10:00,26.6,1,Cloudy,20.8,58,ENE,1012.57,0.01,65.27,66,28.3,0,2
+Makati,Makati City,Philippines,121.03,14.57,2022-02-05 11:00,27.3,1,Partly cloudy,22.1,57,ENE,1013.41,0.02,66.43,56,29.0,0,1
+Makati,Makati City,Philippines,121.03,14.57,2022-02-05 12:00,27.9,1,Partly cloudy,23.4,57,ENE,1014.24,0.03,67.6,46,29.7,0,0
+Makati,Makati City,Philippines,121.03,14.57,2022-02-05 13:00,28.1,1,Partly cloudy,23.5,60,ENE,1014.17,0.02,67.93,36,29.9,0,1
+Makati,Makati City,Philippines,121.03,14.57,2022-02-05 14:00,28.3,1,Sunny,23.6,63,ENE,1014.1,0.02,68.27,27,30.1,0,0
+Makati,Makati City,Philippines,121.03,14.57,2022-02-05 15:00,28.5,1,Sunny,23.8,66,ENE,1014.04,0.01,68.6,17,30.3,0,0
+Makati,Makati City,Philippines,121.03,14.57,2022-02-05 16:00,28.2,1,Sunny,22.4,69,ENE,1013.56,0.02,69.7,15,30.1,0,0
+Makati,Makati City,Philippines,121.03,14.57,2022-02-05 17:00,27.9,1,Sunny,21.1,72,ENE,1013.09,0.02,70.8,12,29.8,0,0
+Makati,Makati City,Philippines,121.03,14.57,2022-02-05 18:00,27.6,0,Clear,19.8,75,ENE,1012.61,0.02,71.9,10,29.6,0,0
+Makati,Makati City,Philippines,121.03,14.57,2022-02-05 19:00,27.0,0,Clear,19.9,75,ENE,1012.51,0.03,71.83,12,28.8,0,0
+Makati,Makati City,Philippines,121.03,14.57,2022-02-05 20:00,26.4,0,Clear,20.0,75,ENE,1012.42,0.03,71.77,14,28.1,0,0
+Makati,Makati City,Philippines,121.03,14.57,2022-02-05 21:00,25.8,0,Clear,20.2,76,ENE,1012.32,0.03,71.7,17,27.3,0,0
+Makati,Makati City,Philippines,121.03,14.57,2022-02-05 22:00,25.7,0,Clear,20.2,77,ENE,1013.17,0.02,70.03,39,27.3,0,0
+Makati,Makati City,Philippines,121.03,14.57,2022-02-05 23:00,25.7,0,Cloudy,20.2,78,ENE,1014.03,0.02,68.37,62,27.3,0,2
+Makati,Makati City,Philippines,121.03,14.57,2022-02-06 00:00,25.6,0,Cloudy,20.2,79,E,1014.89,0.01,66.7,84,27.3,0,0
+Makati,Makati City,Philippines,121.03,14.57,2022-02-06 01:00,25.5,0,Cloudy,20.2,79,E,1014.7,0.0,63.0,78,27.2,0,2
+Makati,Makati City,Philippines,121.03,14.57,2022-02-06 02:00,25.5,0,Cloudy,20.2,80,E,1014.51,0.0,59.3,71,27.2,0,2
+Makati,Makati City,Philippines,121.03,14.57,2022-02-06 03:00,25.4,0,Cloudy,20.2,81,E,1014.33,0.0,55.6,64,27.1,0,0
+Makati,Makati City,Philippines,121.03,14.57,2022-02-06 04:00,25.3,0,Cloudy,19.6,81,E,1013.4,0.0,55.33,67,27.0,0,2
+Makati,Makati City,Philippines,121.03,14.57,2022-02-06 05:00,25.3,0,Cloudy,19.0,81,E,1012.46,0.0,55.07,70,27.0,0,2
+Makati,Makati City,Philippines,121.03,14.57,2022-02-06 06:00,25.2,0,Cloudy,18.4,81,E,1011.53,0.0,54.8,72,26.9,0,0
+Makati,Makati City,Philippines,121.03,14.57,2022-02-06 07:00,25.4,1,Cloudy,19.1,80,E,1011.62,0.0,57.0,65,27.1,0,2
+Makati,Makati City,Philippines,121.03,14.57,2022-02-06 08:00,25.6,1,Partly cloudy,19.8,80,E,1011.72,0.0,59.2,58,27.4,0,1
+Makati,Makati City,Philippines,121.03,14.57,2022-02-06 09:00,25.8,1,Partly cloudy,20.5,80,E,1011.81,0.01,61.4,51,27.6,0,0
+Makati,Makati City,Philippines,121.03,14.57,2022-02-06 10:00,26.9,1,Partly cloudy,21.4,80,E,1012.52,0.01,63.83,49,28.8,0,1
+Makati,Makati City,Philippines,121.03,14.57,2022-02-06 11:00,28.1,1,Partly cloudy,22.2,80,E,1013.24,0.01,66.27,46,30.1,0,1
+Makati,Makati City,Philippines,121.03,14.57,2022-02-06 12:00,29.2,1,Partly cloudy,23.0,81,E,1013.95,0.01,68.7,44,31.3,0,0
+Makati,Makati City,Philippines,121.03,14.57,2022-02-06 13:00,29.2,1,Partly cloudy,24.4,83,E,1014.03,0.02,69.43,34,31.3,0,1
+Makati,Makati City,Philippines,121.03,14.57,2022-02-06 14:00,29.1,1,Sunny,25.7,85,E,1014.11,0.02,70.17,25,31.2,0,0
+Makati,Makati City,Philippines,121.03,14.57,2022-02-06 15:00,29.1,1,Sunny,27.0,87,E,1014.19,0.03,70.9,16,31.2,0,0
+Makati,Makati City,Philippines,121.03,14.57,2022-02-06 16:00,28.7,1,Sunny,25.1,85,E,1013.93,0.04,72.2,15,31.0,0,0
+Makati,Makati City,Philippines,121.03,14.57,2022-02-06 17:00,28.4,1,Sunny,23.2,84,E,1013.67,0.05,73.5,13,30.7,0,0
+Makati,Makati City,Philippines,121.03,14.57,2022-02-06 18:00,28.0,0,Clear,21.2,83,E,1013.42,0.06,74.8,12,30.5,0,0
+Makati,Makati City,Philippines,121.03,14.57,2022-02-06 19:00,27.3,0,Clear,20.4,81,E,1013.16,0.05,74.77,15,29.5,0,0
+Makati,Makati City,Philippines,121.03,14.57,2022-02-06 20:00,26.5,0,Clear,19.6,80,E,1012.89,0.04,74.73,18,28.6,0,0
+Makati,Makati City,Philippines,121.03,14.57,2022-02-06 21:00,25.8,0,Clear,18.7,79,E,1012.63,0.04,74.7,21,27.6,0,0
+Makati,Makati City,Philippines,121.03,14.57,2022-02-06 22:00,25.7,0,Clear,18.2,80,E,1013.24,0.05,73.8,29,27.5,0,0
+Makati,Makati City,Philippines,121.03,14.57,2022-02-06 23:00,25.5,0,Partly cloudy,17.8,82,E,1013.85,0.06,72.9,38,27.3,0,1
+Makati,Makati City,Philippines,121.03,14.57,2022-02-07 00:00,25.4,0,Partly cloudy,17.3,83,E,1014.47,0.08,72.0,47,27.2,0,0
+Makati,Makati City,Philippines,121.03,14.57,2022-02-07 01:00,25.3,0,Partly cloudy,17.3,83,E,1014.31,0.07,69.17,45,27.2,0,1
+Makati,Makati City,Philippines,121.03,14.57,2022-02-07 02:00,25.3,0,Partly cloudy,17.3,83,E,1014.15,0.06,66.33,43,27.1,0,1
+Makati,Makati City,Philippines,121.03,14.57,2022-02-07 03:00,25.2,0,Partly cloudy,17.3,83,E,1013.99,0.05,63.5,42,27.1,0,0
+Makati,Makati City,Philippines,121.03,14.57,2022-02-07 04:00,25.2,0,Partly cloudy,16.8,84,E,1013.01,0.06,62.5,40,27.1,0,1
+Makati,Makati City,Philippines,121.03,14.57,2022-02-07 05:00,25.1,0,Partly cloudy,16.3,85,E,1012.03,0.07,61.5,38,27.0,0,1
+Makati,Makati City,Philippines,121.03,14.57,2022-02-07 06:00,25.1,0,Partly cloudy,15.8,85,E,1011.05,0.07,60.5,37,27.0,0,0
+Makati,Makati City,Philippines,121.03,14.57,2022-02-07 07:00,26.0,1,Partly cloudy,16.9,86,E,1011.19,0.06,62.6,38,27.9,0,1
+Makati,Makati City,Philippines,121.03,14.57,2022-02-07 08:00,26.8,1,Partly cloudy,18.0,86,E,1011.33,0.05,64.7,39,28.8,0,1
+Makati,Makati City,Philippines,121.03,14.57,2022-02-07 09:00,27.7,1,Partly cloudy,19.1,87,E,1011.47,0.03,66.8,41,29.7,0,0
+Makati,Makati City,Philippines,121.03,14.57,2022-02-07 10:00,29.6,1,Partly cloudy,21.1,91,E,1012.16,0.02,68.8,29,32.5,0,1
+Makati,Makati City,Philippines,121.03,14.57,2022-02-07 11:00,31.5,1,Sunny,23.2,96,E,1012.84,0.02,70.8,17,35.3,0,0
+Makati,Makati City,Philippines,121.03,14.57,2022-02-07 12:00,33.4,1,Sunny,25.2,100,E,1013.53,0.01,72.8,5,38.1,0,0
+Makati,Makati City,Philippines,121.03,14.57,2022-02-07 13:00,32.7,1,Sunny,25.3,100,E,1013.64,0.01,73.03,9,36.8,0,0
+Makati,Makati City,Philippines,121.03,14.57,2022-02-07 14:00,31.9,1,Sunny,25.4,100,E,1013.76,0.0,73.27,14,35.5,0,0
+Makati,Makati City,Philippines,121.03,14.57,2022-02-07 15:00,31.2,1,Sunny,25.6,101,ESE,1013.88,0.0,73.5,18,34.2,0,0
+Makati,Makati City,Philippines,121.03,14.57,2022-02-07 16:00,30.1,1,Sunny,23.6,97,E,1013.31,0.0,74.63,19,32.9,0,0
+Makati,Makati City,Philippines,121.03,14.57,2022-02-07 17:00,29.0,1,Sunny,21.7,93,E,1012.73,0.0,75.77,21,31.5,0,0
+Makati,Makati City,Philippines,121.03,14.57,2022-02-07 18:00,27.9,0,Clear,19.8,89,E,1012.16,0.0,76.9,22,30.2,0,0
+Makati,Makati City,Philippines,121.03,14.57,2022-02-07 19:00,27.4,0,Clear,18.6,89,E,1012.27,0.01,77.3,20,29.6,0,0
+Makati,Makati City,Philippines,121.03,14.57,2022-02-07 20:00,26.8,0,Clear,17.4,90,E,1012.38,0.01,77.7,17,29.0,0,0
+Makati,Makati City,Philippines,121.03,14.57,2022-02-07 21:00,26.3,0,Clear,16.2,91,E,1012.49,0.01,78.1,15,28.4,0,0
+Makati,Makati City,Philippines,121.03,14.57,2022-02-07 22:00,26.1,0,Clear,16.3,89,E,1012.96,0.01,76.83,22,28.2,0,0
+Makati,Makati City,Philippines,121.03,14.57,2022-02-07 23:00,25.9,0,Partly cloudy,16.4,86,E,1013.44,0.01,75.57,30,27.9,0,1
